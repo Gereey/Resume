@@ -213,8 +213,8 @@ main section{
 -------------------------------- */
 footer{
     color: #fff;
-    padding: 1em 0;
-    text-align: center;
+    padding: 0.5em 0;
+    text-align: right;
     background: #72655b;
 }
 footer a{
